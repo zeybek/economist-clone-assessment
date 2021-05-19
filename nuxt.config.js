@@ -40,7 +40,7 @@ export default {
   ],
 
   axios: {
-    /* baseURL: 'https://ekonomist.herokuapp.com/', */
+    baseURL: 'https://ekonomist.herokuapp.com/',
   },
 
   pwa: {
